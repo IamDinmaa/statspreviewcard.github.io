@@ -1,0 +1,83 @@
+body {
+  background-color: black;
+}
+
+div {
+  width: 500px;
+  height: 500px;
+  position: relative;
+  left: 120px;
+}
+
+.one {
+  background: rgb(8, 1, 26);
+  font-size: 50px;
+  text-align: center;
+  border-left: 40px solid;
+  border-top: 100px solid;
+  padding: 40px;
+}
+.insight {
+  color: white;
+}
+.two {
+  font-size: 20px;
+  color: grey;
+}
+.three {
+  display: flex;
+  transform: translateX(500px);
+  filter: sepia(1) saturate(5) brightness(0.5) hue-rotate(250deg);
+  position: relative;
+  bottom: 579px;
+  left: 230px;
+}
+
+.com {
+  font-size: 20px;
+  position: relative;
+  top: 140px;
+  right: 198px;
+  color: whitesmoke;
+}
+.sub {
+  font-size: 20px;
+  position: relative;
+  top: 130px;
+  right: 170px;
+  color: grey;
+}
+.subone {
+  font-size: 20px;
+  position: relative;
+  top: 45px;
+  color: grey;
+}
+.subtwo {
+  font-size: 20px;
+  position: relative;
+  left: 140px;
+  bottom: 40px;
+  color: grey;
+}
+
+.tem {
+  font-size: 20px;
+  position: relative;
+  top: 54px;
+  right: 38px;
+
+  color: whitesmoke;
+}
+.que {
+  font-size: 20px;
+  position: relative;
+  left: 125px;
+  bottom: 32px;
+  color: whitesmoke;
+}
+.code {
+  font-size: 18px;
+  position: relative;
+  bottom: 45px;
+}
